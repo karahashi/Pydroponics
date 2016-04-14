@@ -9,7 +9,7 @@
 title: Pydroponics  
 email: frazzgrun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Pydroponics is a simple blog for recording information and keeping track of a small hydroponoc and Raspberry Pi setup. 
+  Pydroponics is a simple blog for recording information and keeping track of a small hydroponic and Raspberry Pi setup. 
 baseurl: "/Pydroponics" # the subpath of your site, e.g. /blog
 url: "http://karahashi.github.io" # the base hostname & protocol for your site
 twitter_username: karahashi
