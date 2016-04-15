@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2016-04-15 16:55:07 +0000
+date:   2016-04-15 
 categories: News
 ---
 Hello World, I'm Frazer Grunshaw a mid 20's tech enthusiast from Lancashire, England.
