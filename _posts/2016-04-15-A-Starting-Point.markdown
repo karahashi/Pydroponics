@@ -1,6 +1,6 @@
 ---
 layout: post
-Title:"Starting Point- Propagation"
+Title: "Starting Point Propagation"
 ---
 
 
