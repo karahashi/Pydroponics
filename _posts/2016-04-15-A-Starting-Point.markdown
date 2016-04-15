@@ -12,6 +12,6 @@ Rather then selecting microgreens or lettuce, things that are more beginner frie
 -Peppers
 -Green Beans
 
-I planted the seeds in to rockwool cubes that have been soaked in water with lemon for 30mins and then placed on a propagator tray with a lid then placed an a shelving unit under a grow light connected to a timer. The light is set to come on at 7am till 11pm. 
+I planted the seeds in to rockwool cubes that have been soaked in water with lemon for 30mins and then placed on a propagator tray with a lid, then placed an a shelving unit under a grow light connected to a timer. The light is set to come on at 7am till 11pm. 
 
 
