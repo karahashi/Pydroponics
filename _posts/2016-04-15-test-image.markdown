@@ -2,6 +2,7 @@
 Layou: post
 Title: "test image"
 date: 2016-04-16
+category: test
 ---
 
 test image 
