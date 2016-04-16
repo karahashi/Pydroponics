@@ -1,6 +1,7 @@
 ---
 Layou: post
 Title: "test image"
+date: 2016-04-16
 ---
 
 test image 
