@@ -1,5 +1,5 @@
 ---
-Layou: post
+Layout: post
 Title: "Two Weeks"
 date: 2016-04-22
 category: growing
