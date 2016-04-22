@@ -1,9 +1,11 @@
 ---
 Layou: post
-Title: "test image"
-date: 2016-04-16
-category: test
+Title: "Two Weeks"
+date: 2016-04-22
+category: growing
 ---
 
-test image 
+After two weeks, im really seeing progress with half of the seeds.
+Both the tomato's have done really well, as seen in the image below. Only one of the peppers sported and none of the been have developed.
+im attributing factors such as the temperature within the propagator being a near 30c. 
 ![test](http://i.imgur.com/he26PZn.jpg)
