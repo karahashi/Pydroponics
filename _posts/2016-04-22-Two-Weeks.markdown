@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: "Two Weeks"
+layout: post
+title: "Two Weeks"
 date: 2016-04-22
 category: Growing
 ---
